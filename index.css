@@ -736,9 +736,6 @@ font-weight: bold;
 .right{
   padding-right:150px;
 }
-
-
-
   #section7{
     text-align: center;
   }
@@ -746,9 +743,9 @@ font-weight: bold;
   display: block;
 }
 .nombu img{
-    padding: 30px 30px;
+    padding: 30px 50px;
     /* height: 90px; */
-    margin: 30px 20px;
+    margin: 30px 15px;
     width: 30%;
     height: 50%;
   }
@@ -788,9 +785,12 @@ height: 50%;
   h1{
     margin-top: 120px;
   }
-  #section2 .a  .b{
+  #section2{
     display: block;
     justify-content: center;
+  }
+  .a{
+    margin-left:400px;
   }
 .b{
   margin-left:400px;
@@ -807,7 +807,6 @@ height: 50%;
 }
 #section4{
   display: block;
-
   width: 100%;
 }
 .box1{
@@ -837,7 +836,7 @@ width: 100%;
     font-size: 20px;
   } */
  .social{
-margin-right:
+margin-right:;
 }
 li a{
   display: none;
