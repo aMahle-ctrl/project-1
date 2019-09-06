@@ -235,7 +235,7 @@ text-align: center;
   display: flex;
   justify-content: center; 
 /* position: absolute;  */
-margin-top:590px;
+margin-top:530px;
 /* right: 70px; */ */
 height: 108px;
  width: 100%;
@@ -853,10 +853,10 @@ li a{
   }
   .dot2:before{
     background: #fff;
-    box-shadow:0 2px 5px rgba(0, 0, 0, 0.5);
+    box-shadow:0 2px 0px 1rgba(0, 0, 0, 0.5);
   }
   .dot2:after{
     background: #fff;
-    box-shadow:0 2px 5px rgba(0, 0, 0, 0.5);
+    box-shadow:0 2px 0px 1rgba(0, 0, 0, 0.5);
   }
 }
