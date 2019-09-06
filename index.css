@@ -746,10 +746,9 @@ font-weight: bold;
   display: block;
 }
 .nombu img{
-    padding: 30px 50px;
+    padding: 30px 30px;
     /* height: 90px; */
-    margin: 30px 15px;
-    color: white;
+    margin: 30px 20px;
     width: 30%;
     height: 50%;
   }
@@ -831,6 +830,9 @@ width: 100%;
     text-align: center;
     width: 100%;
   }
+.phuphu{
+  margin:30px;
+}
 
     /* nav{
     width: 96%;
