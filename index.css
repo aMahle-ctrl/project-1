@@ -789,13 +789,15 @@ height: 50%;
   h1{
     margin-top: 120px;
   }
-  #section2{
+  #section2 .a  .b{
     display: block;
     justify-content: center;
   }
-.a{
-    margin-left:400px;
+#section2 .a .b{
+   display: block;
+    justify-content: center;
   }
+  
 .b{
   margin-left:400px;
 }
