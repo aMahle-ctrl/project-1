@@ -231,19 +231,19 @@ border-radius: 100px;
 }
 @keyframes slide {
   0%{
-    background-image:linear-gradient(rgba(5, 0, 0, 0.3),rgba(5, 0, 0, 0.3)) ,url(../img/ll.jpeg);
+    background-image:linear-gradient(rgba(5, 0, 0, 0.3),rgba(5, 0, 0, 0.3)) ,url(..ll.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
   25%{
-    background-image:linear-gradient(rgba(5, 0, 0, 0.3),rgba(5, 0, 0, 0.3)) ,url(../img/lop.jpg);
+    background-image:linear-gradient(rgba(5, 0, 0, 0.3),rgba(5, 0, 0, 0.3)) ,url(..lop.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
   100%{
-    background-image:linear-gradient(rgba(5, 0, 0, 0.3),rgba(5, 0, 0, 0.3)) ,url(../img/lap.jpeg);
+    background-image:linear-gradient(rgba(5, 0, 0, 0.3),rgba(5, 0, 0, 0.3)) ,url(..lap.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -607,7 +607,7 @@ color:white;
 
 #section6{
   background-image:linear-gradient(to right bottom,
-    rgba(9, 0, 0, 0.5),rgba(55, 5, 9, 0.5)), url(../img/mi.jpeg);
+    rgba(9, 0, 0, 0.5),rgba(55, 5, 9, 0.5)), url(mi.jpeg);
   background-position: center;
   background-size: cover;
    background-repeat: no-repeat;
