@@ -758,7 +758,7 @@ font-weight: bold;
   .icon {
     /* opacity:0; */
 
-@media sreen and ( max-width:1024px){
+@media screen and ( max-width:1024px){
   .icon {
     /* opacity:0; */
 }
@@ -781,18 +781,18 @@ font-weight: bold;
   transform: rotate(45deg) translate(-8px -8px);
 }
 # */ */
-.menu-list{
+/* .menu-list{
   background-color:  #dc6226;
   width: 400px;
   margin-top: 20px;
   /* opacity: 0; */
 
-  max-height: 50;
+/*   max-height: 50;
   overflow: hidden;
 
   transition: 0.7s;
   transition:0.7s;
-}
+} */ */
 
   *{
     margin: 0;
