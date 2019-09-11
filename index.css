@@ -757,8 +757,6 @@ font-weight: bold;
 /* @media sreen and ( max-width:1024px){
   .icon {
     /* opacity:0; */
-}
-}
 
 @media sreen and ( max-width:1024px){
   .icon {
@@ -777,7 +775,7 @@ font-weight: bold;
 }
 .chnage bar2{
   /* opacity: 0; */
-}
+
 /* .change .bar3{
   transform: rotate(45deg) translate(-8px, -8px);
   transform: rotate(45deg) translate(-8px -8px);
